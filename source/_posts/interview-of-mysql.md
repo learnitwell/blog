@@ -1,12 +1,11 @@
 ---
 title: 后端开发面试知识点之mysql
 tags:
-  - 后端开发
   - 面试
   - 数据库
   - mysql
 categories:
-  - 后端开发
+  - 后端开发面试知识点
 author: 艾逗笔
 date: 2018-11-05 00:00:00
 ---

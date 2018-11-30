@@ -1,11 +1,10 @@
 ---
 title: 后端开发面试知识点之redis
 tags:
-  - 后端开发
   - 面试
   - redis
 catogories:
-  - 后端开发
+  - 后端开发面试知识点
 author: 艾逗笔
 date: 2018-11-04 00:00:00
 ---
