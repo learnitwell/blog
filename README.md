@@ -32,16 +32,22 @@ git checkout -b author
 4. 预览
 
 ```
-hexo s
+hexo server --drafts
 ```
 
 5. 写文章
 
 ```
-hexo new post
+hexo new draft "title of article"
 ```
 
-6. 投稿
+6. 发表文章
+
+```
+hexo publish "title of article"
+```
+
+7. 投稿
 
 ```
 git add
@@ -49,6 +55,6 @@ git commit -a "comment"
 git push origin author
 ```
 
-7. 申请合并
+8. 申请合并
 
 在github发送pull request到learnitwell/blog项目的master分支
